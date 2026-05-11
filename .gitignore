@@ -8,6 +8,8 @@
 *.sw?
 *.un~
 *.log
+.DS_Store
+/work.zip
 f90deps.mk
 objdir*
 external/*
